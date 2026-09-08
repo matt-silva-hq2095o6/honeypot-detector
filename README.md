@@ -67,3 +67,5 @@ sudo hpdetect 192.168.1.50 -p ssh,http --confidence-threshold 60
   }
 ]
 ```
+
+<!-- generated: 2026-09-08 -->
